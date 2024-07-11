@@ -1,0 +1,55 @@
+
+/*Texts*/
+
+	body{background-color: #111111;}
+	h1{color: #41B100; 
+		font-family: COURIER;
+		font-size:50px;
+		background-color:#1C1C1C;
+		padding: 12px;}
+
+	h2{color: #41B100; font-family: COURIER;
+		font-size: 32px}
+
+	h3{color: #41B100; font-family: COURIER;
+		font-size: 24px}
+
+	p{color: #41B100; font-family: COURIER;}
+
+
+	legend{color: #41B100; font-family: COURIER;
+		border-style: dotted;
+		padding: 8px;
+		border-width: 2px;
+		text-align: center;
+		text-decoration: none;}
+
+	a:hover{color:#7CFA34;}
+
+	a{text-decoration: none;
+		color: #41B100;
+		font-family: COURIER;
+		font-size: 18px;}
+
+	fieldset{order-style: groove;
+			border-style: dotted;
+			border-color: #41B100;
+			display: block;
+			padding: 25px;
+			margin: 50px;
+			unicode-bidi: isolate;}
+
+	hr{border-color: #41B100;
+		border-style: groove;}
+
+	hr2{border-color: #41B100;}
+
+	ul{list-style: none;
+		background-color: #1C1C1C;
+		padding: 12px;}
+
+	center{border-style: groove;
+			border-color: #41B100;
+			display: block;
+			padding: 6px;
+			margin: 12px;}
